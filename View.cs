@@ -1,5 +1,3 @@
-using System.Xml.Serialization;
-
 public class View
 {
 

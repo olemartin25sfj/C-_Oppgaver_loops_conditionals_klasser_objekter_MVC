@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#_Oppgaver_loops_conditionals_klasser_objekter_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4455d472b49173b30febeac34c34e08b78ba4cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#_Oppgaver_loops_conditionals_klasser_objekter_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#_Oppgaver_loops_conditionals_klasser_objekter_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

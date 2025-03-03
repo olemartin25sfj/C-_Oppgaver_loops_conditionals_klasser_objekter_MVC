@@ -1,6 +1,4 @@
-﻿namespace C__Oppgaver_loops_conditionals_klasser_objekter_MVC;
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {

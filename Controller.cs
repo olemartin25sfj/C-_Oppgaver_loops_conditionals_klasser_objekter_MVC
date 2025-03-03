@@ -1,5 +1,4 @@
-using System.ComponentModel;
-using System.ComponentModel.Design;
+using System;
 
 public class Controller
 {
@@ -63,7 +62,12 @@ public class Controller
         Console.Write("Sjanger: ");
         string genre = Console.ReadLine();
 
-        _model.Books.Add(new Book { Title = title, Year = year, Genre = genre });
+        Console.Write("Beskrivelse: ");
+        string description = Console.ReadLine();
+
+        _model.Books.Add(new Book { Title = title, Year = year, Genre = genre, Description = description });
+        _model.SaveBooks();
         Console.WriteLine("Boken er lagt til!");
     }
+
 }

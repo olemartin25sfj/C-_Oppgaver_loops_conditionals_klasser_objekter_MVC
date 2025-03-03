@@ -1,0 +1,56 @@
+[
+  {
+    "Title": "Hvordan debugge uten \u00E5 gr\u00E5te",
+    "Year": 2023,
+    "Genre": "Fagbok",
+    "Description": "En humoristisk guide til det \u00E5 feils\u00F8ke og debugge uten \u00E5 miste forstanden."
+  },
+  {
+    "Title": "1001 unnskyldninger for \u00E5 utsette koding",
+    "Year": 2022,
+    "Genre": "Humor",
+    "Description": "En samling av kreative unnskyldninger for \u00E5 slippe unna programmering."
+  },
+  {
+    "Title": "Try/Catch \u2013 En kj\u00E6rlighetshistorie",
+    "Year": 2021,
+    "Genre": "Fiktion",
+    "Description": "En roman om et uventet vennskap mellom en programfeil og et ungt utviklerpar."
+  },
+  {
+    "Title": "Den magiske nullreferansen",
+    "Year": 2020,
+    "Genre": "Eventyr",
+    "Description": "En episk reise for \u00E5 finne den ber\u00F8mte nullreferansen og redde koden fra katastrofe."
+  },
+  {
+    "Title": "Console.WriteLine: Mitt liv som utvikler",
+    "Year": 2019,
+    "Genre": "Memoar",
+    "Description": "En utviklers livsreise gjennom de mange utfordringene og triumphene ved \u00E5 kode."
+  },
+  {
+    "Title": "Objekter og andre mysterier",
+    "Year": 2018,
+    "Genre": "Fagbok",
+    "Description": "En dyptg\u00E5ende utforskning av objekter i objektorientert programmering, med et snev av mystikk."
+  },
+  {
+    "Title": "Fra Hello World til burnout",
+    "Year": 2017,
+    "Genre": "Humor",
+    "Description": "En humoristisk fortelling om overgangen fra nybegynner til erfaren utvikler og hvordan det kan f\u00F8re til utbrenthet."
+  },
+  {
+    "Title": "MVC: My Very Confusing journey",
+    "Year": 2016,
+    "Genre": "Memoar",
+    "Description": "Min reise gjennom det forvirrende universet av MVC-arkitektur \u2013 en bok om \u00E5 overleve det hele."
+  },
+  {
+    "Title": "Kodingens Kunst",
+    "Year": 2023,
+    "Genre": "Teknologi",
+    "Description": "En humoristisk guide til kodingens verden, med enkle forklaringer p\u00E5 hvordan kode kan bli en kunstform."
+  }
+]
